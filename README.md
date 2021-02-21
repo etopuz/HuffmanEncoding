@@ -2,6 +2,7 @@
 Huffman Encoding With C++
 
 # How To Run
+### Compile
 - g++ -std=c++11 *cpp -o Main
 - You can just type "make" in terminal.
 ### Commands
@@ -9,6 +10,7 @@ Huffman Encoding With C++
 - ./Main -i encoded_file -decode
 - ./Main -s char
 - ./Main -l
+
 
 ## Notes
 - This project is my university assignment.
