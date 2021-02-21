@@ -13,5 +13,4 @@ Huffman Encoding With C++
 
 
 ## Notes
-- This project is my university assignment.
 - You can find more info in Report.pdf file.
